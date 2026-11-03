@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Ashok! 👋
 
-<!--
-**USERASHOKG/USERASHOKG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Software Engineer | Full Stack Developer | AI Enthusiast`
 
-Here are some ideas to get you started:
+I turn ideas into code and code into things people can actually use. ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software engineer with internship experience at **Merck Group**, interested in building scalable applications, backend systems, and AI-powered products.
+
+- 💻 Exploring **Full Stack Development & Backend Engineering**
+- 🤖 Building with **Generative AI, LLMs & Agentic AI**
+- ⚙️ Working with **Python, JavaScript, Node.js, React & REST APIs**
+- ☁️ Interested in **Cloud, Automation & Distributed Systems**
+- 🌱 Learning something new, breaking things, fixing them, and shipping better code.
+- 🤝 Open to collaborating on interesting projects and open-source contributions.
+
+### My developer mindset
+
+`Build → Break → Learn → Improve → Ship`
+
+**Less talking about ideas. More building them.** 🚀
